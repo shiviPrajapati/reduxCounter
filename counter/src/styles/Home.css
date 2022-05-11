@@ -1,0 +1,29 @@
+
+.heading{
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.counter{
+    border: 1px solid gray;
+    width: fit-content;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.counter input{
+    background-color: white;
+    border: none;
+    font-size: 30px;
+    width:50px;
+    margin-left: 40px;
+    
+}
+
+.counter button{
+    border: none;
+    font-size: 30px;
+}
